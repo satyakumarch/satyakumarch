@@ -1,4 +1,5 @@
-<img src="Screenshot 2024-01-29 210402.png">
+<img src=![image](https://github.com/satyakumarch/satyakumarch/assets/118563873/bc098802-421d-4367-af09-ad86e1360a15)>
+
 <h1 align="center">Hi 👋, I'm Satya Kumar Chaudhary</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
