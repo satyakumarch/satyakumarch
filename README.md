@@ -15,7 +15,7 @@
 
 - 🤝 I’m currently studying **Computer Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [satyakumarch.github.io/protflio/](satyakumarch.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://satyakumarch.github.io/portfolio/
 
 - 💬 Ask me about **HTML, CSS ,JavaScript , C , C++ ,Java, DBMS ,OS ,CN ,**
 
