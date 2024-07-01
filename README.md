@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyakumarch&label=Profile%20views&color=0e75b6&style=flat" alt="satyakumarch" /> </p>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=satyakumarch&label=1241&pretty=false" />
-</a>
-[![](https://visitcount.itsvg.in/api?id=satyakumarch&label=1241&pretty=false)](https://visitcount.itsvg.in)
+ 
 
 
 - 🔭 I’m currently working on **Ecommerce website**
