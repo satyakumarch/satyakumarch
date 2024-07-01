@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, NodeJs, JavaScript,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://satyakumarch.github.io/portfolio/](https://github.com/satyakumarch)
+- 👨‍💻 All of my projects are available at https://satyakumarch.github.io/portfolio/
 
 - 💬 Ask me about **HTML, CSS ,JavaScript , C , C++ ,Java, DBMS ,OS ,CN ,**
 
