@@ -11,7 +11,7 @@
 
 
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>Data Structures And Full Stack Development</b> <br>
+- 🏫 I’m currently learning <b> Full Stack Development</b> <br>
 - 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
 
 - 🌱 I’m currently learning **Java, DSA, NodeJs, JavaScript,MongoDB**
