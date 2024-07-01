@@ -22,9 +22,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/satya-kumar-chaudhary/**
 
-<h3 align="left">Connect with me:</h3>
 
-## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
