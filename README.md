@@ -10,13 +10,13 @@
  
 
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
+- 🏫 I’m currently learning <b>Data Structures And Full Stack Development</b> <br>
+- 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
 
 - 🌱 I’m currently learning **Java, DSA, NodeJs, JavaScript,MongoDB**
 
-- 🤝 I’m currently studying **Computer Science and Engineering**
-
-- 👨‍💻 All of my projects are available at https://satyakumarch.github.io/portfolio/
+- 👨‍💻 All of my projects are available at [https://satyakumarch.github.io/portfolio/](https://github.com/satyakumarch)
 
 - 💬 Ask me about **HTML, CSS ,JavaScript , C , C++ ,Java, DBMS ,OS ,CN ,**
 
