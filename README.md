@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML, CSS ,JavaScript , C , C++ ,Java, DBMS ,OS ,CN ,**
 
-- 📫 How to reach me **https://www.linkedin.com/in/satya-kumar-chaudhary/**
+- 📫 How to reach me **https://www.linkedin.com/in/satya-kumar-/**
 
 
 <h3 align="left">Connect with me:</h3>
