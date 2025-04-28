@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, NodeJs, JavaScript,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://satyakumar.vercel.app/](https://satyaku.netlify.app/)
+- 👨‍💻 All of my projects are available at https://satyakumar12.netlify.app/
 
 - 💬 Ask me about **HTML, CSS ,JavaScript , C , C++ ,Java, DBMS ,OS ,CN ,**
 
